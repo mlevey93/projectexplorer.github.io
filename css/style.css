@@ -108,7 +108,7 @@ footer ul {
     list-style-type: none;
 }
 
-footer li { color: lime; }
+footer li { color: #FF66CC ; }
 
 .wrapper {
     margin: 0 auto;
@@ -211,4 +211,3 @@ footer li { color: lime; }
         text-align: left;   
     }
     
-}
